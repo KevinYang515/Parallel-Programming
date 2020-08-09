@@ -1,2 +1,2 @@
 # Parallel-Programming
-This is the project for parallel programming CS542200, which solved some parallel problems and implmented some algorithm. Moreover, I wrote the documents about the details I tried and learned, and also analyzed the results.
+This is the project for CS542200, which solved some parallel problems and implmented some algorithms. Moreover, I wrote the documents about the details I tried and learned, and also analyzed the results.
